@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "movie-app-513e1",
+    "staging": "vue-blog-system-6b3f4"
+  },
+  "targets": {},
+  "etags": {}
+}
